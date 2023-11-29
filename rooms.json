@@ -1,0 +1,12 @@
+{
+    "rooms": [
+        {
+            "id": "5e902e12-4874-4e87-b2e4-a5c22a1c0d42",
+            "name": "Javascript news"
+        },
+        {
+            "id": "31a40564-57cf-42fd-a223-6deca778b0f1",
+            "name": "NodeJS forum"
+        }
+    ]
+}
